@@ -5,3 +5,4 @@
 ### What I learned:
 - Unit testing (junit)
 - Graphs 
+- Class diagrams
